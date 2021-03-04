@@ -2,6 +2,8 @@
 
 findme is a little command line tool I wrote to quickly get my Macbook's current latitude and longitude
 
+![image info](./images/screenshot.png)
+
 ## Support
 
 Works on macOS 10.14 and above
