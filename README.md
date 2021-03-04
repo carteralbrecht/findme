@@ -1,6 +1,6 @@
 # findme
 
-findme is a little command line tool for me to quickly get my Macbook's current latitude and longitude
+findme is a little command line tool I wrote to quickly get my Macbook's current latitude and longitude
 
 ## Support
 
